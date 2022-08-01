@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TonyRowntree
-- 👀 I’m interested in blockchain, java, deveops, all things development really.
+- 👀 I’m interested in blockchain, java, DevOps, all things development really.
 - 🌱 I’m currently learning substrate, kubernetes, ansible.
 - 💞️ I’m looking to collaborate on anything and everything.
 
